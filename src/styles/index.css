@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Oswald-Regular";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face{
+  font-family: "Oswald-Regular";
+  src: url("../fonts/Oswald-Regular.ttf");
+  
+  }
